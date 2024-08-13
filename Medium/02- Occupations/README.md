@@ -1,3 +1,3 @@
-# Revising Aggregations - Averages
+# Occupations
 
-You can find the problem statement [here](https://www.hackerrank.com/challenges/revising-aggregations-the-average-function/problem?isFullScreen=false).
+You can find the problem statement [here](https://www.hackerrank.com/challenges/occupations/problem?isFullScreen=false).
